@@ -9,5 +9,9 @@ package classesandobjectsexercises;
  * @author palic
  */
 public class CarClass {
+    String make;
+    String model;
+    int numWheels;
+    String colour;
     
 }
